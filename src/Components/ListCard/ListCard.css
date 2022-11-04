@@ -1,0 +1,78 @@
+.card_body {
+  width: 350px;
+  height: 465px;
+  background: #ffffff;
+  box-shadow: 0px 4px 43px rgba(0, 0, 0, 0.08);
+  border-radius: 15px;
+  float: left;
+  margin: 3.4rem;
+}
+
+.preview {
+  width: 350px;
+  height: 174px;
+  background-image: url("./Images/Rectangle\ 6673.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 105%;
+}
+
+.status {
+  width: 87px;
+  height: 21px;
+  background: rgba(255, 199, 33, 0.25);
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+  color: #000000;
+}
+
+.status_body {
+  display: flex;
+  justify-content: center;
+  margin: 2rem;
+}
+
+.card_heading {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0rem 3.5rem 0rem 3.5rem;
+  text-align: center;
+  color: #000000;
+}
+
+.timer {
+  border: 2px solid red;
+  text-align: center;
+  width: 19rem;
+  margin: auto;
+  margin-top: 2rem;
+
+}
+
+.participate_ {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 1.3rem;
+}
+
+.participate_btn {
+  width: 182.55px;
+  height: 42px;
+  border: none;
+  background: #44924c;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  text-align: center;
+  color: #ffffff;
+  cursor: pointer;
+}

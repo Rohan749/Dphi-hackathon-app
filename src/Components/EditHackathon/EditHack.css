@@ -1,0 +1,90 @@
+.list_body {
+    min-height: 100vh;
+    height: fit-content;
+  }
+  
+  .nav_bar {
+    background: #ffffff;
+    height: 64px;
+  }
+  
+  .nav_icon > img {
+    position: absolute;
+    left: 89px;
+    top: 13px;
+  }
+  
+  .create_body {
+    min-height: 100vh;
+    height: fit-content;
+    background-color: white;
+  }
+  
+  .create_heading {
+    height: 5rem;
+    color: black;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    background: #f8f9fd;
+    padding: 2rem;
+    padding-left: 89px;
+  }
+  
+  .label {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #333333;
+  }
+  
+  .inpt {
+    margin-bottom: 3rem;
+    width: 453px;
+    height: 39px;
+    border: 1px solid #b7b7b7;
+    border-radius: 5px;
+    font-size: 20px;
+    color: #333333;
+  }
+  
+  .form_ {
+    margin-top: 3rem;
+    padding-left: 89px;
+  }
+  
+  .describe {
+    width: 817px;
+    height: 252px;
+    border: 1px solid #b7b7b7;
+    border-radius: 5px;
+    padding: 3px;
+  }
+  
+  .btn {
+    cursor: pointer;
+    margin-bottom: 3rem;
+    width: 236px;
+    height: 47px;
+    background: #f4f4f4;
+    border: 1px solid #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .membership {
+    width: 236px;
+    padding: 5px;
+    height: 39px;
+    margin-bottom: 3rem;
+    border: 1px solid #b7b7b7;
+    border-radius: 5px;
+  }
+  
+  .create_btn {
+    gap: 10px;
+    background: #44924c;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+  }
+  

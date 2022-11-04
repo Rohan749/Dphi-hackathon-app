@@ -1,0 +1,114 @@
+
+.list_body {
+  min-height: 625px;
+  height: fit-content;
+  
+}
+
+.nav_bar {
+  background: #ffffff;
+  height: 64px;
+}
+
+.nav_icon > img {
+  position: absolute;
+  left: 89px;
+  top: 13px;
+}
+
+.list_description {
+  width: 60rem;
+  height: 30rem;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.desc {
+  width: 40rem;
+  height: 25rem;
+}
+
+.rocket {
+  width: 25rem;
+  height: 25rem;
+  background: url("./images/PicsArt_04-14-04.42\ 1.png");
+}
+
+.desc > h1 {
+  font-style: bold;
+  font-size: 48px;
+  line-height: 56px;
+  vertical-align: Top;
+  color: #ffffff;
+}
+
+.desc > p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  color: #ececec;
+}
+
+.desc > button {
+  width: 198px;
+  height: 47px;
+  background: #ffffff;
+  border-radius: 10px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 18px;
+  text-align: center;
+  color: #003145;
+  cursor: pointer;
+}
+
+.list_bottom{
+    background: #002A3B;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btm_content{
+    width: 70rem;
+    height: 7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cntent {
+    width: 55rem;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btm_desc{
+    width: 20rem;
+    height: 2rem;
+    color: white;
+    text-align: center;
+}
+
+.btm_desc > p {
+  font-weight: 500;
+  margin-top: 0px;
+  font-size: 12px;
+}
+
+
+.btm_h {
+  font-size: 1.3rem;
+}
+
+.boder_ {
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+}

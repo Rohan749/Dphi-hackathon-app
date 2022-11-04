@@ -1,0 +1,117 @@
+.detail_heading {
+  height: 15rem;
+  padding: 4.5rem;
+}
+
+.timing {
+  width: 464px;
+  height: 34px;
+  background: #ffce5c;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 12px;
+  margin-bottom: 2rem;
+}
+
+.name_challenge {
+  width: fit-content;
+  height: 48px;
+  color: white;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 48px;
+  margin-bottom: 2rem;
+}
+
+.detail_desc {
+  width: 576px;
+  height: 31px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  color: #f8f9fd;
+  margin-bottom: 2rem;
+}
+
+.level_box {
+  width: 102px;
+  height: 34px;
+  background: #f8f9fd;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #003145;
+  margin-bottom: 2rem;
+}
+
+.overview_body {
+  min-height: 20rem;
+  height: fit-content;
+  background-color: white;
+}
+
+.overview_nav {
+  height: 66px;
+  background: #ffffff;
+  border: 0.3px solid #dde6ed;
+  box-shadow: 0px 6px 12px #dde6ed;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.overview {
+  font-weight: bold;
+  font-size: 18px;
+  margin-left: 5.2rem;
+}
+
+.detail_btns {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 5.2rem;
+}
+
+.edit_btn {
+  width: 91px;
+  height: 37px;
+  border: none;
+  color: white;
+  font-weight: bold;
+  background: #44924c;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.dlt_btn {
+  width: 91px;
+  border: 2px solid red;
+  height: 37px;
+  color: red;
+  font-weight: bold;
+  background: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.overview_para {
+  width: 956px;
+  height: 322px;
+  left: 126px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.02em;
+  color: #64607d;
+  margin: 4.5rem;
+}

@@ -1,0 +1,79 @@
+.back_body {
+  background-color: white;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+  margin-bottom: -3rem;
+}
+
+.info_body {
+  height: 5rem;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 20px;
+  text-align: center;
+  color: #000000;
+  margin-top: 5rem;
+}
+
+.info_container {
+  height: 18rem;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.cont {
+  background: #F8F9FD;
+  border-radius: 20px;
+  margin: 1rem;
+  width: 27rem;
+  padding-top: 4rem;
+}
+
+.inner_cont {
+  height: 2rem;
+  margin: 1rem;
+}
+
+.icn1 {
+  background-image: url("./icons/Vector.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.icn2 {
+    background-image: url("./icons/Robot.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+
+  .icn3 {
+    background-image: url("./icons/Vector\(1\).png");
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+
+  .icn4 {
+    background-image: url("./icons/IdentificationCard.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+
+.head {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 50px;
+  letter-spacing: -0.03em;
+}
+
+.para {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+
+  color: #64607d;
+}
