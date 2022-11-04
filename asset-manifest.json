@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dphi-hackathon-app/static/css/main.a2cbaa2f.css",
+    "main.js": "/Dphi-hackathon-app/static/js/main.07022c07.js",
+    "static/media/Rectangle 6673.png": "/Dphi-hackathon-app/static/media/Rectangle 6673.5ef409487ee2314ea97b.png",
+    "static/media/PicsArt_04-14-04.42 1.png": "/Dphi-hackathon-app/static/media/PicsArt_04-14-04.42 1.511a3d02c07de44e8859.png",
+    "index.html": "/Dphi-hackathon-app/index.html",
+    "main.a2cbaa2f.css.map": "/Dphi-hackathon-app/static/css/main.a2cbaa2f.css.map",
+    "main.07022c07.js.map": "/Dphi-hackathon-app/static/js/main.07022c07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2cbaa2f.css",
+    "static/js/main.07022c07.js"
+  ]
+}
